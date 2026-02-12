@@ -1,6 +1,6 @@
 ***Muhammad Nasihan***
 
-
+![Logo](./logox.jpg)
 
 ---
 ***Data Bigmo***
