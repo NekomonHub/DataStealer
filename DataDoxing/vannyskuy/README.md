@@ -1,9 +1,13 @@
 # Data Vannyskuy (Tidak lengkap)
 ***Logo Profile***
+
 ![Logo](./logo.jpg)
 ---
+
 ***Foto Wajah***
+
 ![Logo](./logo2.jpg)
+
 ---
 ***Doxing by Xyzendev***
 ```json
