@@ -2,6 +2,8 @@
 
 ![Logo](./logo.jpg)
 
+---
+***Doxing by Xyzendev***
 ```json
 {
   "NIK": "tidak diketahui",
