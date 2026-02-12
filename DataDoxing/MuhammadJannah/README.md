@@ -7,7 +7,7 @@
 ```json
 {
         "Nama Lengkap": "Muhammad Jannah Khusnul Khuluq Putra Nashihan",
-        "Nama Alias": "Bigmo / Niceguymoo"
+        "Nama Alias": "Bigmo / Niceguymoo",
         "NIK": "317307030720001",
         "Tanggal Lahir": "03 - 07 - 2002",
         "Umur": "24 Tahun",
